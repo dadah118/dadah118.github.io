@@ -13,21 +13,21 @@ permalink: /projects/
 
 사진, 위치, 카테고리, 상태 등의 정보를 제공하며 AI와 외부 API를 활용해 사용자 편의성을 높였습니다.
 
+![시작 화면](/assets/images/campus-splash.png)
+![메인 화면](/assets/images/campus-main.png)
+![상세 화면](/assets/images/campus-detail.png)
 ---
 
 ## 1. 프로젝트 개요
 
-| 항목 | 내용 |
-|---|---|
-| 프로젝트명 | Campus Lost & Found |
-| 프로젝트 유형 | Android 애플리케이션 |
-| 개발 형태 | 팀 프로젝트 |
-| 개발 인원 | 2명 |
-| 담당 역할 | UI 개발 및 외부 API 연동 |
-| 개발 환경 | Android Studio |
-| 주요 언어 | Kotlin |
+- **프로젝트명:** Campus Lost & Found
+- **프로젝트 유형:** Android 애플리케이션
+- **개발 형태:** 팀 프로젝트
+- **개발 인원:** 2명
+- **담당 역할:** UI 개발 및 외부 API 연동
+- **개발 환경:** Android Studio
+- **주요 언어:** Kotlin
 
-![Campus Lost & Found 화면 구성]( /assets/images/campus-lost-found-flow.png )
 
 ### 개발 목적
 
@@ -35,6 +35,8 @@ permalink: /projects/
 - 분실물 및 습득물 정보의 체계적인 관리
 - 위치와 사진 정보를 활용한 탐색 편의성 개선
 - AI 및 외부 API를 활용한 사용자 입력 부담 감소
+
+![Campus Lost & Found 화면 구성]( /assets/images/campus-lost-found-flow.png )
 
 ## 2. 주요 기능
 
@@ -150,6 +152,3 @@ Firebase 데이터 조회 및 외부 API 호출 과정에서 UI가 멈추지 않
 ## 7. 프로젝트 링크
 
 - GitHub Repository: [프로젝트 소스 코드](https://github.com/yj0602/2026-sw-term-project.git)
-
-- Demo: [애플리케이션 시연 영상](여기에_시연_영상_주소)
-
