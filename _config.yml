@@ -57,11 +57,10 @@ defaults:
       layout: post # Default layout
 
 # 7. Site settings
-encoding: utf-8 # Make sure the encoding is right
-title: "Garth" # Site name or title
-logo: "/assets/logo.svg" # Site logo
-# favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
-description: "A really basic theme for Jekyll, using the official Jekyll theme implementation" # Site description and default description
-url: "https://garth.darn.es" # Site url
+encoding: utf-8 
+title: "Dahyun's Portfolio"
+description: "Computer Engineering Student | Software Development"
+url: "https://dadah118.github.io"
 baseurl: ""
-lang: en-GB
+timezone: Asia/Seoul
+lang: en
