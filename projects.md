@@ -47,5 +47,4 @@ to share and search for lost items on campus.
 
 ## Links
 
-- GitHub: [Project Repository](여기에_프로젝트_URL)
-- Demo: [Demo Video](여기에_영상_URL)
+- GitHub: [Project Repository](https://yj0602/2026-sw-term-project)
