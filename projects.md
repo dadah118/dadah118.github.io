@@ -7,6 +7,59 @@ permalink: /projects/
 
 **캠퍼스 분실물 관리 Android 애플리케이션**
 
+<style>
+.screenshot-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+  margin: 30px 0;
+}
+
+.screenshot-item {
+  text-align: center;
+  min-width: 0;
+}
+
+.screenshot-item img {
+  width: 100%;
+  height: 520px;
+  object-fit: contain;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.10);
+}
+
+.screenshot-item p {
+  margin-top: 12px;
+  font-weight: bold;
+}
+
+@media (max-width: 700px) {
+  .screenshot-gallery {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .screenshot-item img {
+    height: auto;
+    max-height: 650px;
+  }
+}
+</style>
+<div class="screenshot-gallery">
+  <div class="screenshot-item">
+    <img src="/assets/images/campus-splash.png" alt="앱 시작 화면">
+    <p>01. 시작 화면</p>
+  </div>
+  <div class="screenshot-item">
+    <img src="/assets/images/campus-main.png" alt="앱 메인 화면">
+    <p>02. 메인 화면</p>
+  </div>
+  <div class="screenshot-item">
+    <img src="/assets/images/campus-detail.png" alt="분실물 상세 화면">
+    <p>03. 상세 화면</p>
+  </div>
+</div>
+
 대학교 캠퍼스 내에서 발생하는 분실물과 습득물을 효율적으로 등록하고 검색할 수 있도록 개발한 Android 애플리케이션입니다.
 
 기존의 에브리타임, 인스타그램 등 여러 채널에 흩어져 있던 분실물 정보를 하나의 플랫폼에서 관리할 수 있도록 기획했습니다.
@@ -36,9 +89,8 @@ permalink: /projects/
 - 위치와 사진 정보를 활용한 탐색 편의성 개선
 - AI 및 외부 API를 활용한 사용자 입력 부담 감소
 
-![Campus Lost & Found 화면 구성]( /assets/images/campus-lost-found-flow.png )
-
 ## 2. 주요 기능
+![Campus Lost & Found 화면 구성]( /assets/images/campus-lost-found-flow.png )
 
 ### ① 분실물 및 습득물 관리
 
