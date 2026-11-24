@@ -26,6 +26,7 @@ permalink: /projects/
 | 담당 역할 | UI 개발 및 외부 API 연동 |
 | 개발 환경 | Android Studio |
 | 주요 언어 | Kotlin |
+
 ![Campus Lost & Found 화면 구성]( /assets/images/campus-lost-found-flow.png )
 
 ### 개발 목적
