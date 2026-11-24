@@ -1,5 +1,6 @@
 ---
 permalink: /projects/
+title: Project
 ---
 
 # Campus Lost & Found
