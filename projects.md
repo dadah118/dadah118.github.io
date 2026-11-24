@@ -48,15 +48,12 @@ permalink: /projects/
 <div class="screenshot-gallery">
   <div class="screenshot-item">
     <img src="/assets/images/campus-splash.png" alt="앱 시작 화면">
-    <p>01. 시작 화면</p>
   </div>
   <div class="screenshot-item">
     <img src="/assets/images/campus-main.png" alt="앱 메인 화면">
-    <p>02. 메인 화면</p>
   </div>
   <div class="screenshot-item">
     <img src="/assets/images/campus-detail.png" alt="분실물 상세 화면">
-    <p>03. 상세 화면</p>
   </div>
 </div>
 
@@ -66,9 +63,6 @@ permalink: /projects/
 
 사진, 위치, 카테고리, 상태 등의 정보를 제공하며 AI와 외부 API를 활용해 사용자 편의성을 높였습니다.
 
-![시작 화면](/assets/images/campus-splash.png)
-![메인 화면](/assets/images/campus-main.png)
-![상세 화면](/assets/images/campus-detail.png)
 ---
 
 ## 1. 프로젝트 개요
