@@ -1,6 +1,6 @@
 ---
-permalink: /projects/
 title: Project
+permalink: /projects/
 ---
 
 # Campus Lost & Found
